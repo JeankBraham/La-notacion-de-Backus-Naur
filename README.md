@@ -1,3 +1,3 @@
 # Paper-La-notacion-de-Backus-Naur
 
-Trabajo 
+Paper de La notación de Backus-Naur presentado a Jose Gilberto Vargas Cano
